@@ -29,3 +29,4 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2att,d2lte,d2can,d2tmo
 
+BOARD_HARDWARE_CLASS := $(LOCAL_PATH)/lineagehw/
